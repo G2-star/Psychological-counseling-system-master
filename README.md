@@ -20,8 +20,5 @@ JDK版本：jdk1.8
 INSERT INTO `sys_user` VALUES (10, '张三', 'e10adc3949ba59abbe56e057f20f883e', 'xiaozhang@sina.com', '张三', '北京', '13131313311', '普通用户', 0);
 
 优化版本
-2022年4月6日00:17:09
+2022年4月24日 22:16 by Zane Zhang
 新增用户注册功能，支持普通用的用户注册
-
-
-张建楠
